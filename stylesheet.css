@@ -1,0 +1,41 @@
+body {background-color: rgb(135, 217, 241);}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+  }
+ 
+  
+h1 {margin-bottom: 15px;
+    font-size: 60px;
+    font-family:Impact;
+    color: goldenrod;
+    text-align: center;
+    background-color: palevioletred;
+}
+h2 { margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgb(105, 67, 245);
+    font-size: 30px;
+    font-family:Arial;
+    text-align: center;
+    text-decoration: underline;
+}
+p { margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-size: 16px;
+    font-family:Tahoma;
+    font-weight:bold;
+    color:rgb(158, 77, 233) }
+ul {
+    width: 200px;
+    border: 15px dotted rgb(20, 165, 146);
+    padding: 50px;
+    margin: 20px;
+    font-family:Helvetica;
+    font-size: 13px;
+    color: white
+  }
